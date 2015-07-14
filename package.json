@@ -1,0 +1,16 @@
+{
+  "name": "credit-card-form",
+  "version": "0.1.0",
+  "description": "Demo credit card form using Atomic OOBEMITSCSS",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://filbot@github.com/filbot/credit-card-form.git"
+  },
+  "author": "Filip Adamczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filbot/credit-card-form/issues"
+  },
+  "homepage": "https://github.com/filbot/credit-card-form#readme"
+}
