@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/filbot/credit-card-form/issues"
   },
-  "homepage": "https://github.com/filbot/credit-card-form#readme"
+  "homepage": "https://github.com/filbot/credit-card-form#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
